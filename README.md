@@ -1,5 +1,5 @@
 # Previous Robots
-[Fight Compilation](https://youtu.be/2jmfZkLVLY4)
+[Missouri S&T Combat Robotics Fight Compilation](https://youtu.be/2jmfZkLVLY4)
 # Dopamine 3lbs
 Here is my most recent Combat Robotics build, Dopamine!
 

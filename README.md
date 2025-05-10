@@ -9,14 +9,13 @@ Watch Dopamine in action:
 
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/Dopamine%20Finished.png" alt="Finshed Dopamine" width="600" height="400">
 
-#Overview
+# Overview
 
 Dopamine is a three pound vertical spinner, and was designed and built in just two weeks entirely using FreeCAD 1.0. While I use SolidWorks professionally, I like to challenge myself to use open-source tools whenever it is possible, and I was excited to give the newly released 1.0 version!
 
-
 I had used FreeCAD for viewing CAD, creating small single parts, and for its CAM workbench. This was my first full FreeCad project!
-
-My first concept involved two vertical weapon motors at an off-angle to each other.
+# Concept 1
+My intial concept involved two vertical weapon motors at an off-angle to each other in order to maximize the offensive surface area.
 
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/Dopamine%20Concept%201.PNG" alt="Concept 1" width="600" height="400">
 

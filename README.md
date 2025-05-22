@@ -11,17 +11,17 @@ Watch Dopamine in action:
 
 # Overview
 
-Dopamine is a three pound vertical spinner, and was designed and built in just two weeks entirely using FreeCAD 1.0. While I use SolidWorks professionally, I like to challenge myself to use open-source tools whenever it is possible, and I was excited to give the newly released 1.0 version!
+Dopamine is a three-pound vertical spinner and was designed and built in just two weeks entirely using FreeCAD 1.0. While I use SolidWorks professionally, I like to challenge myself to use open-source tools whenever it is possible, and I was excited to give the newly released 1.0 version!
 
-I had used FreeCAD for viewing CAD, creating small single parts, and for its CAM workbench. This was my first full FreeCad project!
+I had used FreeCAD for viewing CAD, creating small single parts, and for its CAM workbench. This was my first full FreeCAD project!
 # Concept 1
-My intial concept involved two vertical weapon motors at an off-angle to each other in order to maximize the offensive surface area.
+My initial concept involved two vertical weapon motors at an off-angle to each other in order to maximize the offensive surface area.
 
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/Dopamine%20Concept%201.PNG" alt="Concept 1" width="600" height="400">
 
-With the newly introduced topological naming algorithm in the 1.0 release and the limited changes I made to these files, I had no technical issues with modeling. The assembly workbench is unfortunately not nearly as stable and as shown in the linked image, broke for nearly every change. The real issue with this concept was weight. After figuring in all the components and the body's weight, I realized this concept would be extremely challenging to pull off, especially with my limited timeline.
+With the newly introduced topological naming algorithm in the 1.0 release and the limited changes I made to these files, I had no technical issues with modeling. The assembly workbench is unfortunately not nearly as stable, and as shown in the linked image, it broke for nearly every change. The real issue with this concept was weight. After figuring in all the components and the body's weight, I realized this concept would be extremely challenging to pull off, especially with my limited timeline.
 
-For these reasons I pivoted away from that concept to a single weapon vertical spinner, with the hopes of creating something as simple as possible.
+For these reasons, I pivoted away from that concept to a single weapon vertical spinner, with the hopes of creating something as simple as possible.
 # Version 1
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/Dopamine%20V1.PNG" alt="Concept 1" width="600" height="400">
 
@@ -33,7 +33,9 @@ On top of that, I'd dimensioned off of internal references in the body for many 
 
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/Dopamine%20Cad.PNG" alt="Final CAD" width="600" height="400">
 
-Putting together all I learned, I was aggressive in removing unnecessary features in the model tree and cognizant of every single geometry reference. Splitting the body into the two uprights and a main body section, I was able to cut the weight needed to make this robot compete! With about five days left until the competition, I quickly sliced and printed all the components on my Voron 2.4. When the part came in the day before competition, I finally got all the parts together and finished the build.
+Putting together all I learned, I was aggressive in removing unnecessary features in the model tree and cognizant of every single geometry reference. Splitting the body into the two uprights and a main body section, I was able to cut the weight needed to make this robot compete! With about five days left until the competition, I quickly sliced and printed all the components on my Voron 2.4. When the part came in the day before the competition, I finally got all the parts together and finished the build. 
+
+Some quick changes I made were adding a button head cap screw to the bottom of both uprights. This allowed me to cut down the uprights and use the button head screws as a slider on the floor. This gave me better, more consistent ground clearance. I also used a 3D Pen to fix damage during the competition. This worked wonderfully, and the "welds" were stronger than the printed material. I also added a small hole in the uprights for a weapon lock per competition rules.
 
 Version 3?
 

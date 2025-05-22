@@ -37,7 +37,7 @@ Putting together all I learned, I was aggressive in removing unnecessary feature
 
 Some quick changes I made were adding a button head cap screw to the bottom of both uprights. This allowed me to cut down the uprights and use the button head screws as a slider on the floor. This gave me better, more consistent ground clearance. I also used a 3D Pen to fix damage during the competition. This worked wonderfully, and the "welds" were stronger than the printed material. I also added a small hole in the uprights for a weapon lock per competition rules.
 
-Version 3?
+# Version 3?
 
 I was happy with the performance of the first revision. The weapon had a ton of power, and the body held up well! However, there are numerous changes that I will make to compete with this robot again:
 

@@ -1,1 +1,11 @@
+Uprights
+0.6mm Nozzle
+4 Walls
+6 Top and Bottom Layers
+25% Infill Honeycomb
 
+Body
+0.6mm Nozzle
+2 Walls
+6 Top and Bottom Layers
+15% Infill Honeycomb

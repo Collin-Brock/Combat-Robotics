@@ -1,7 +1,7 @@
 # Previous Robots
 [Missouri S&T Combat Robotics Fight Compilation](https://youtu.be/2jmfZkLVLY4)
 
-# Null - Hobbyweight (12lbs)
+# null - Hobbyweight (12lbs)
 
 # Overview
 

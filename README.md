@@ -8,9 +8,12 @@
 null is a hobbyweight robot that uses two independent egg beater style weapons.
 
 # Revision 2 (Under Construction)
-For my next revision of null FreeCAD released the 1.1 update. Because of this, and since the redesign would not share any components, I migrated from onshape back to FreeCAD. Finally, FreeCAD had the ability to create a main sketch that could be reference for all other components. 
+For my next revision of null, FreeCAD released the 1.1 update. Because of this, and since the redesign would not share any components, I migrated from onshape back to FreeCAD. Finally, FreeCAD had the ability to create a main sketch that could be reference for all other components. 
+
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/nullV2MainSketch.PNG" alt="null CAD" width="600" height="400">
-I took this top down modeling method to its extreme. All the important parameters went into the VarSet (a collection of variables and properties). I also found the iterative sketch solver to be very robust, I was able to designate constraints and belt lengths and parametrically derive the position of each of the pullies. Using the Gear add in I also was able to create the HTD3 belts and parametrically derive the rest from those generated shapes. Now I can change the drive gearing on the fly! I used this extensively to pack the robot into the smallest possible package.
+
+I took this top-down modeling method to its extreme. All the important parameters went into the VarSet (a collection of variables and properties). I also found the iterative sketch solver to be very robust; I was able to designate constraints and belt lengths and parametrically derive the position of each of the pulleys. Using the Gear add-in, I also was able to create the HTD3 belts and parametrically derive the rest from those generated shapes. Now I can change the drive gearing on the fly! I used this extensively to pack the robot into the smallest possible package.
+
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/nullV2CAD.png" alt="null CAD" width="600" height="400">
 The wheels needed to be geared down just a bit more, so I took a small 1:4 gearbox driving pulley in the middle of the wheels driving the front wheels from the inside and the back from the middle. The only shared component between this version and the first is the weapons, as these were the most difficult to manufacture. The external pieces are made of carbon fiber and Overture's High Speed 95A TPU. All the armor components are held on with M5 aluminum standoffs, and the TPU is screwed into with tri-lobe screws for plastics.
 
@@ -18,9 +21,9 @@ The wheels needed to be geared down just a bit more, so I took a small 1:4 gearb
 
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/nullv1.PNG" alt="null CAD" width="600" height="400">
 
-The first revision I wanted to try and use onshape again. I moved away from freecad, because of a frustration I had not being able to top-down model like I wanted to. At this point in it's development it was not possible to reference other sketches into other sketches parametrically. The ability to create independent copies, but changes would not propagate.
+For the first revision, I wanted to try and use Onshape again. I moved away from FreeCAD because of a frustration I had with not being able to top-down model like I wanted to. At this point in its development, it was not possible to reference other sketches into other sketches parametrically. There was the ability to create independent copies, but changes would not propagate.
 
-The design philosophy for this was something that I could build very rapidly, and keep the belts inside of the uprights. One of the coolest aspect from this design the belts on the interior of the upright was also its downfall. The parts I manufactured with my custom CNC machine (A Millennium Machines Milo Build Kit by LDO Motors - V1.5) and full size knee mill. The weapons were made of S7 that I manually machined then heat treated in an old pottery kiln.
+The design philosophy for this was something that I could build very rapidly, and keep the belts inside of the uprights. One of the coolest aspect from this design, the belts on the interior of the upright, was also its downfall. The parts I manufactured with my custom CNC machine (A Millennium Machines Milo Build Kit by LDO Motors - V1.5) and full size knee mill. The weapons were made of S7 that I manually machined then heat treated in an old pottery kiln.
 
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/KilnWarmingUp.jpg" alt="Kiln Warming Up" width="400" height="400"> <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/KilnHot.jpg" alt="null V1 Weapon Heat Treat" width="400" height="400">
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/nullDone.jpg" alt="null Finished" width="600" height="400">
@@ -31,7 +34,7 @@ I had several issues with this first revision. The worst of these was the main s
 
 Using onshape was a good experience overall. I did not like the equations editor and the solving algorithms that are standard with the package however.
 
-# xlrom8r (Under Construction)
+# xlrom8r - PLANTweight (plastic 1lbs (Under Construction)
 
 # Dopamine - Beetleweight (3lbs)
 Watch Dopamine in action:

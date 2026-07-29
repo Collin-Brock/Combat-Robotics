@@ -1,5 +1,25 @@
 # Previous Robots
 [Missouri S&T Combat Robotics Fight Compilation](https://youtu.be/2jmfZkLVLY4)
+
+# Null - Hobbyweight (12lbs)
+
+# Overview
+
+null is a hobbyweight robot that uses two independent egg beater style weapons.
+
+# Revision 1
+
+<img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/null%20v1.png" alt="null CAD" width="600" height="400">
+
+The first revision I wanted to try and use onshape again. I moved away from freecad, because of a frustration I had not being able to top-down model like I wanted to. At this point in it's development it was not possible to reference other sketches into other sketches parametrically. The ability to create independent copies, but changes would not propagate.
+
+The design philosophy for this was something that I could build very rapidly, and keep the belts inside of the uprights. One of the coolest aspect from this design the belts on the interior of the upright was also its downfall. The parts I manufactured with my custom CNC machine (A Millennium Machines Milo Build Kit by LDO Motors - V1.5) and full size knee mill. The weapons were made of S7 that I manually machined then heat treated in an old pottery kiln.
+
+<img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/KilnWarmingUp.jpg" alt="Kiln Warming Up" width="600" height="400">
+<img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/KilnHot.jpg" alt="null V1 Weapon Heat Treat" width="600" height="400">
+<img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/nullDone.jpg" alt="null Finished" width="600" height="400">
+<img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/nullV1Bent.jpg" alt="null Issues" width="600" height="400">
+
 # Dopamine - Beetleweight (3lbs)
 Watch Dopamine in action:
 

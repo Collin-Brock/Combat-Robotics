@@ -33,6 +33,10 @@ Using onshape was a good experience overall. I did not like the equations editor
 
 # xlrom8r - PLANTweight (plastic 1lbs (Under Construction)
 
+xlrom8r is a plastic antweight full meltybrain spinner. It uses one driven wheel with an accelerometer to rotate and translate.
+
+This project is loosely based on the OpenMelt2 project. This was my first full design and layout of a circuit board.
+
 # Dopamine - Beetleweight (3lbs)
 Watch Dopamine in action:
 

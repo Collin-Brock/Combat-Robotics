@@ -39,9 +39,11 @@ This project is loosely based on the OpenMeltv2 project. This was my first full 
 
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/xlrom8rv1.1.1.jpg" alt="xlrom8r Prototype vs. V1.1.1" width="600" height="400">
 
-During this process I learned several very important items.The first of these is the FS2A reciever. I found some cheaper old stock receiver that have different firmware. Newer FS2A firmware allows you to be able to set the failsafe (what the board outputs when it looses connection). The older boards need to be connected to the transmitter then the micro switch needs to be pressed while the sticks are giving a zero output.
+During this process I learned several very important items.The first of these is the FS2A receiver. I found some cheaper old stock receiver that have different firmware. Newer FS2A firmware allows you to be able to set the failsafe (what the board outputs when it looses connection) in the transmitter. The older boards need to be connected to the transmitter then the micro switch needs to be pressed while the sticks are giving a zero output to set the failsafe.
 
 The other item that I learned is that mosfet technology has rapidly improved in the last 10 even 5 years. The OpenMeltv2 BOM spec mosfet RFP30N06LE is quite outdated and has a really bad Rds resistance of 47mOhms. This causes lots of extra heat in the robot. During testing with an unbalanced frame it got so hot that it melted the PLA plastic with an aluminum heat sink attached.
+
+To upgrade we used an STP60NF06. This mosfet has an Rds of 16mOhm. This give us much less heat output with a very comparable on and off time and the same voltage rating.
 
 # Dopamine - Beetleweight (3lbs)
 Watch Dopamine in action:

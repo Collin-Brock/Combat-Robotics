@@ -58,6 +58,12 @@ Watch Dopamine in action:
 
 Dopamine is a three-pound vertical spinner and was designed and built in just two weeks entirely using FreeCAD 1.0. While I use SolidWorks professionally, I like to challenge myself to use open-source tools whenever it is possible, and I was excited to give the newly released 1.0 version!
 
+# Current Version
+
+<img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/Dopamine4WDLayout.png" alt="Dopamine Today" width="600" height="400">
+
+After the original write up from Dopamine I've slowly iterated on the design.
+
 # Version 3?
 
 I was happy with the performance of the first revision. The weapon had a ton of power, and the body held up well! However, there are numerous changes that I will make to compete with this robot again:

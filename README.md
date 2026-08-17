@@ -35,7 +35,13 @@ Using onshape was a good experience overall. I did not like the equations editor
 
 xlrom8r is a plastic antweight full meltybrain spinner. It uses one driven wheel with an accelerometer to rotate and translate.
 
-This project is loosely based on the OpenMelt2 project. This was my first full design and layout of a circuit board.
+This project is loosely based on the OpenMeltv2 project. This was my first full design and layout of a circuit board.
+
+<img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/xlrom8rv1.1.1.jpg" alt="xlrom8r Prototype vs. V1.1.1" width="600" height="400">
+
+During this process I learned several very important items.The first of these is the FS2A reciever. I found some cheaper old stock receiver that have different firmware. Newer FS2A firmware allows you to be able to set the failsafe (what the board outputs when it looses connection). The older boards need to be connected to the transmitter then the micro switch needs to be pressed while the sticks are giving a zero output.
+
+The other item that I learned is that mosfet technology has rapidly improved in the last 10 even 5 years. The OpenMeltv2 BOM spec mosfet RFP30N06LE is quite outdated and has a really bad Rds resistance of 47mOhms. This causes lots of extra heat in the robot. During testing with an unbalanced frame it got so hot that it melted the PLA plastic with an aluminum heat sink attached.
 
 # Dopamine - Beetleweight (3lbs)
 Watch Dopamine in action:

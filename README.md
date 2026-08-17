@@ -47,7 +47,7 @@ To upgrade we used an STP60NF06. This mosfet has an Rds of 16mOhm. This give us 
 
 # Dopamine - Beetleweight (3lbs)
 Watch Dopamine in action:
-
+[Dopamine @ SEMO Brawl at the Mall](https://youtu.be/lr6jOsFHBJs?is=opU_QOpkGZwGzTxW)
 [Cage Side Dopamine Fights](https://youtu.be/8gMDauhMamM)
 
 [Competition Stream](https://www.youtube.com/live/L-PKoHOr0sI)

@@ -14,6 +14,9 @@ I took this top-down modeling method to its extreme. All the important parameter
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/nullV2CAD.png" alt="null CAD" width="600" height="400">
 The wheels needed to be geared down just a bit more, so I took a small 1:4 gearbox driving pulley in the middle of the wheels driving the front wheels from the inside and the back from the middle. The only shared component between this version and the first is the weapons, as these were the most difficult to manufacture. The external pieces are made of carbon fiber and Overture's High Speed 95A TPU. All the armor components are held on with M5 aluminum standoffs, and the TPU is screwed into with tri-lobe screws for plastics.
 
+<img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/nullWheel.PNG" alt="null Wheel CAD" width="600" height="400">
+By invoking another of FreeCAD's best features of python based addins, along with smart uses of datum planes and control over the references, I was able to create a fully parametrized wheel. This feature was used extensively as I changed the belt ratios several times to better capture the belts within the armor and adjust spacing.
+
 # Revision 1
 
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/nullv1.PNG" alt="null CAD" width="600" height="400">

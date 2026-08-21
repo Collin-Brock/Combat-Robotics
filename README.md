@@ -55,7 +55,7 @@ Watch Dopamine in action:
 
 [Competition Stream](https://www.youtube.com/live/L-PKoHOr0sI)
 
-<img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/Dopamine%20Finished.png" alt="Finshed Dopamine" width="600" height="400">
+
 
 # Overview
 
@@ -65,9 +65,11 @@ Dopamine is a three-pound vertical spinner and was designed and built in just tw
 
 <img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/Dopamine4WDLayout.png" alt="Dopamine Today" width="600" height="400">
 
-After the original write up from Dopamine I've slowly iterated on the design.
+After the original write up from Dopamine I've slowly iterated on the design. I've added several of the features mentioned under the version 3 section.
 
-# Version 3?
+# Version 3
+
+<img src="https://github.com/Collin-Brock/Combat-Robotics/blob/main/assets/Dopamine%20Finished.png" alt="Finshed Dopamine" width="600" height="400">
 
 I was happy with the performance of the first revision. The weapon had a ton of power, and the body held up well! However, there are numerous changes that I will make to compete with this robot again:
 
